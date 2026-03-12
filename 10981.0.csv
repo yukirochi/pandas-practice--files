@@ -1,0 +1,101 @@
+CustomerID,FullName,Email,Phone,Age,JoinDate,SubTier
+1001,Alice Smith,alice.smith@email.com,555-0101,28,2023-01-15,Premium
+1002, bob jones ,BOB.J@EMAIL.COM,5550102,35,02/20/2023,Basic
+1003,CHARLIE BROWN,cbrown@email,555-0103-ext4,42,2023-03-10,free
+1004,David Davis,david@email.com,(555) 0104,-5,April 5th 2023,Premium
+1005,,eve.m@email.com,555-0105,twenty,2023-05-12,Basik
+1006,Frank Wilson,frank.w@email.com,555-0106,150,06-15-2023,Premium
+1007,Grace Lee,grace.l@email.com,N/A,31,,Free
+1008,Henry Clark,henry c at email dot com,555-0108,45,2023-08-20,PREMIUM
+1009,Ivy Martinez,ivy.m@email.com,555-0109,29,09/10/2023,Prmium
+1010,Jack Robinson,jack.r@email.com,555-0110,38,2023-10-01,Basic
+1011,Karen White,karen.w@email.com,555-0111,52,2023-11-15,Free
+1012, kyle black,kyle.b@email.com,555-0112,24,12/25/2023,basic
+1001,Alice Smith,alice.smith@email.com,555-0101,28,2023-01-15,Premium
+1014,Liam Harris,liam.h@email.com,5550114,33,2024-01-05,Fre
+1015,Mia Nelson,mia.n@email.com,555-0115, ,02-14-2024,Premium
+1016,Noah Carter,noah.c@email.com,+1-555-0116,40,2024-03-20,Basic
+1017,Olivia Perez,olivia.perez@email.com,555-0117,27,March 30 2024,Premium
+1018,Paul Taylor,paul.t@email.com,555-0118,999,2024-04-10,Basic
+1019,Quinn Adams,,555-0119,30,05/05/2024,Free
+1020,Rachel Scott,rachel.s@email.com,555-abcd,35,2024-06-15,Premium
+1021,Sam Thomas,sam.t@email.com,555-0121,41,2024-07-22,Bas
+1022,Tina Moore,tina.m@email.com,555-0122,22,08-08-2024,Premium
+1023,Umar Khan,umar.k@email.com,555-0123,-10,2024-09-12,Free
+1024,Vera Evans,vera.e@email.com,(555)0124,48,10/31/2024,Basic
+1025,Will Green,will.g@email.com,555-0125,55,,Premium
+1026,Xena King,xena.k@email.com,555-0126,thirty,2024-12-01,Free
+1027,Yuri Baker,yuri.b@email.com,555-0127,37,2025-01-15,Basic
+1028,Zoe Hill,zoe.h@email.com,555-0128,29,02/28/2025,Prem
+1010,Jack Robinson,jack.r@email.com,555-0110,38,2023-10-01,Basic
+1030,Alan Wright,alan.w@email.com,555-0130,15,2025-04-10,Free
+1031,Betty Lopez,betty.l@email.com,5550131,60,05-20-2025,Basic
+1032,Caleb Young,caleb.y@email.com,555-0132,44,2025-06-30,Premium
+1033,Diana Hall,diana.h@email.com,555-0133, ,07/04/2025,Free
+1034,Ethan Allen,ethan.a@email.com,(555) 0134,26,2025-08-15,Basic
+1035,Fiona Wood,fiona.w@email.com,555-0135,39,September 1st 2025,Premium
+1036,,george.m@email.com,555-0136,50,2025-10-31,Free
+1037,Hannah Cook,hannah.c@email.com,555-0137,-2,11/11/2025,Basic
+1038,Ian Murphy,ian.m@email.com,none,32,2025-12-25,Premium
+1039,Julia Rivera,julia.r@email.com,555-0139,47,01-05-2026,Free
+1040,Kevin Gomez,kevin.g@email.com,555-0140,28,2026-02-14,Basic
+1041,Laura Diaz,laura.d@email.com,5550141,55,03/17/2026,Premium
+1042,Mike Hayes,mike.h@email.com,+15550142,34,2026-04-01,Free
+1043,Nina Ford,nina.f@email.com,555-0143,110,05-05-2026,Basic
+1044,Oscar West,oscar.w@email.com,555-0144,25,2026-06-20,Premim
+1045,Penny Cole,penny.c@email.com,555-0145,forty,07/15/2026,Free
+1046,Quincy Ray,quincy.r@email.com,(555)-0146,36,2026-08-30,Basic
+1047,Rose Webb,rose.w@email.com,555-0147,43,,Premium
+1048,Steve Reed,steve.r@email.com,555-0148,-15,10/10/2026,Free
+1049,Tara Bell,tara.b@email.com,555-0149,31,2026-11-25,Basic
+1050,Ursula Cox,ursula.c@email.com,5550150,29,12-31-2026,Premium
+1035,Fiona Wood,fiona.w@email.com,555-0135,39,September 1st 2025,Premium
+1052,Victor Fox,victor.f@email.com,555-0152,58,2027-02-14,Free
+1053,Wendy Day,wendy.d@email.com,555-0153, ,03/15/2027,Basic
+1054,Xander May,xander.m@email.com,555-0154,23,2027-04-20,Premium
+1055,Yolanda Kim,yolanda.k@email.com,(555) 0155,49,05-10-2027,Free
+1056,Zack Dunn,zack.d@email.com,555-0156,200,2027-06-15,Basic
+1057,Amy Shaw,amy.s@email.com,555-0157,33,07/20/2027,PREMIUM
+1058,Ben Cruz,ben.cruz@email,555-0158,27,2027-08-25,Free
+1059,Chloe Ortiz,chloe.o@email.com,N/A,41,09-30-2027,Basic
+1060,Dan Silva,dan.s@email.com,555-0160,36,2027-10-05,Premium
+1061,Eva Ramos,eva.r@email.com,5550161,53,11/11/2027,Free
+1062,Felix Ruiz,felix.r@email.com,555-0162,26,2027-12-25,Basic
+1063,,gwen.m@email.com,555-0163,44,01-20-2028,Premium
+1064,Hugo Rose,hugo.r@email.com,+1 (555) 0164,30,2028-02-28,Free
+1065,Iris Boyd,iris.b@email.com,555-0165,-5,03/15/2028,Basic
+1066,Jay Dunn,jay.d@email.com,555-0166,thirty,2028-04-10,Premium
+1067,Kyla Webb,kyla.w@email.com,555-0167,46,,Free
+1068,Leo Shaw,leo.s@email.com,555-0168,22,06/20/2028,Basic
+1069,Mya Cruz,mya.c@email.com,(555)0169,39,2028-07-25,Prem
+1070,Nate Ortiz,nate.o@email.com,555-0170,51,08-30-2028,Free
+1060,Dan Silva,dan.s@email.com,555-0160,36,2027-10-05,Premium
+1072,Orla Silva,orla.s@email.com,555-0172,25,2028-10-15,Basic
+1073,Paco Ramos,paco.r@email.com,5550173, ,11/20/2028,Premium
+1074,Quin Ruiz,quin.r@email.com,555-0174,40,2028-12-10,Free
+1075,Rosa Moss,rosa.m@email.com,555-abcd,32,01-05-2029,Basic
+1076,Seth Rose,seth.r@email.com,555-0176,16,2029-02-14,Premium
+1077,Thea Boyd,thea.b@email.com,(555) 0177,54,03/17/2029,Free
+1078,Uri Dunn,uri.d@email.com,555-0178,28,2029-04-20,Basic
+1079,Vera Webb,vera.w@email.com,555-0179,888,05-25-2029,Premium
+1080,Will Shaw,will.s@email.com,none,35,2029-06-30,Free
+1081,Xena Cruz,xena.c@email.com,555-0181,42,07/04/2029,Basic
+1082,Yuri Ortiz,yuri.o@email.com,5550182,21,2029-08-15,Premium
+1083,Zoe Silva,zoe.s@email.com,+1-555-0183,37,09-10-2029,Free
+1084,Adam Ramos,adam.r@email.com,555-0184,-8,2029-10-31,Basic
+1085,Brie Ruiz,brie.r@email.com,(555)0185,45,11/11/2029,Premium
+1086,,carl.m@email.com,555-0186,29,2029-12-25,Free
+1087,Dawn Rose,dawn.r@email.com,555-0187,fifty,01-20-2030,Basic
+1088,Ezra Boyd,ezra.b@email.com,555-0188,34,,Premium
+1089,Faye Dunn,faye.d@email.com,555-0189,50,2030-03-15,Free
+1090,Gabe Webb,gabe.w@email.com,5550190,26,04/10/2030,Basic
+1078,Uri Dunn,uri.d@email.com,555-0178,28,2029-04-20,Basic
+1092,Hope Shaw,hope.s@email.com,(555) 0192, ,2030-06-25,Premium
+1093,Ivan Cruz,ivan.c@email.com,555-0193,38,07-30-2030,Free
+1094,Jade Ortiz,jade.o@email.com,555-0194,47,2030-08-15,Basic
+1095,Karl Silva,karl.s@email.com,N/A,31,09/20/2030,Premium
+1096,Lara Ramos,lara.r@email.com,555-0196,18,2030-10-31,Free
+1097,Mark Ruiz,mark.r@email.com,+1 (555) 0197,55,11-25-2030,Basic
+1098,Nia Moss,nia.m@email.com,555-0198,24,2030-12-10,Premium
+1099,Otis Rose,otis.r@email.com,555-0199,-3,01/05/2031,Free
+1100,Pam Boyd,pam.b@email.com,5550200,43,2031-02-14,Basic
